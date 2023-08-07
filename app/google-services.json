@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "554719444081",
+    "firebase_url": "https://android-music-player-11df9-default-rtdb.firebaseio.com",
+    "project_id": "android-music-player-11df9",
+    "storage_bucket": "android-music-player-11df9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554719444081:android:e46861ebbdc219c785afd0",
+        "android_client_info": {
+          "package_name": "com.example.android_music_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554719444081-tj4klou8kh3alatqlho0e5dd3cdc4d44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkCVzABCY5ek3IWmP8589VQGsjEWHx0D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554719444081-tj4klou8kh3alatqlho0e5dd3cdc4d44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554719444081:android:97728edaa9486a3785afd0",
+        "android_client_info": {
+          "package_name": "com.kursatmemis.androidmusicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554719444081-tj4klou8kh3alatqlho0e5dd3cdc4d44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkCVzABCY5ek3IWmP8589VQGsjEWHx0D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554719444081-tj4klou8kh3alatqlho0e5dd3cdc4d44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
